@@ -41,7 +41,7 @@ Developed by **Rehan Khan**.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rehankpathan/handly.git
+   git clone https://github.com/rehankpathan00-beep/handly.git
    cd handly
    ```
 
@@ -106,10 +106,11 @@ To build an executable using PyInstaller:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rehankpathan/handly/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rehankpathan00-beep/handly/issues).
 
 ---
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
