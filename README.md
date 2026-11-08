@@ -1,5 +1,9 @@
 # Handly - Hand Gesture Control System
 
+[![Handly CI](https://github.com/rehankpathan00-beep/handly/actions/workflows/ci.yml/badge.svg)](https://github.com/rehankpathan00-beep/handly/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/)
+
 Handly is a computer vision application that allows you to control system volume and presentation slides using intuitive hand gestures through your webcam in real-time. Built with Python, OpenCV, MediaPipe, PyAutoGUI, and PyCAW.
 
 Developed by **Rehan Khan**.
